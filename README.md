@@ -32,7 +32,7 @@ pip3 install -r requirements.txt
 
 ## USAGE
 
-   Put the emails you want to use to spam in [accpunts.json](https://github.com/loTus04/EmailBomber/blob/main/accounts.json)<br />
+   Put the emails you want to use to spam in [accounts.json](https://github.com/loTus04/EmailBomber/blob/main/EmailBomber/accounts.json)<br />
    You need to [Allow Less Secure Apps](https://www.youtube.com/watch?v=Ee7PDsbfOUI) on your account
 
 
