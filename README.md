@@ -16,8 +16,8 @@
 
 ### 🏠 [Homepage](https://github.com/loTus04/EmailBomber/blob/main/README.md)
 
-### ✨ [Demo](https://github.com/loTus04/EmailBomber/blob/main/img/Capture.PNG)
-<img src="https://github.com/loTus04/EmailBomber/blob/main/img/Capture.PNG" />
+### ✨ [Demo](https://media.discordapp.net/attachments/919204721024204820/919236136457633892/Capture.png)
+<img src="https://media.discordapp.net/attachments/919204721024204820/919236136457633892/Capture.png" />
 
 ## Prerequisites
 
